@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="public/images/to-do-app-logo.png" width="250" alt="Laravel To-Do App logo">
+</div>
+
 # Laravel To-Do App
 
 Sèrie de publicacions de [axeliboriroch.com](https://axeliboriroch.com) on poc a poc anirem desenvolupant una **To-Do App**.
@@ -18,6 +22,7 @@ Les característiques de la nostra To-Do App seran les següents:
 El llistat de posts d'aquesta sèrie són aquests:
 - [Projecte Laravel (sèrie): To-Do App](https://axeliboriroch.com/post/laravel/projecte-laravel-serie-to-do-app)
 - [Projecte Laravel (sèrie): To-Do App - Setup bàsic](https://axeliboriroch.com/post/laravel/projecte-laravel-serie-to-do-app-setup-basic)
+- [Projecte Laravel (sèrie): To-Do App - Logo, Login i Registre](https://axeliboriroch.com/post/laravel/projecte-laravel-serie-to-do-app-logo-login-i-registre)
 - Pròximament més 😉
 
 Espero que us agradi i, si no us fa mandra, hi deixeu una 🌟
