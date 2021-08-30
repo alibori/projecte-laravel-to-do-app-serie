@@ -23,6 +23,7 @@ El llistat de posts d'aquesta sèrie són aquests:
 - [Projecte Laravel (sèrie): To-Do App](https://axeliboriroch.com/post/laravel/projecte-laravel-serie-to-do-app)
 - [Projecte Laravel (sèrie): To-Do App - Setup bàsic](https://axeliboriroch.com/post/laravel/projecte-laravel-serie-to-do-app-setup-basic)
 - [Projecte Laravel (sèrie): To-Do App - Logo, Login i Registre](https://axeliboriroch.com/post/laravel/projecte-laravel-serie-to-do-app-logo-login-i-registre)
+- [Projecte Laravel (sèrie): To-Do App - Tests](https://axeliboriroch.com/post/laravel/projecte-laravel-serie-to-do-app-tests)
 - Pròximament més 😉
 
 Espero que us agradi i, si no us fa mandra, hi deixeu una 🌟
